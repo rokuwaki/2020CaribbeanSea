@@ -1,6 +1,6 @@
 % ---------------------------------- FINITE-SOURCE RUPTURE MODEL -------------------------------- %
-% Event : Caribbean Sea 01/18/2021 [Tadapansawut et al. (2021)] Model ID: 2020012801
-% EventTAG: s2021CARIBB01TADA
+% Event : Caribbean Sea 01/28/2020 [Tadapansawut et al. (2021)] Model ID: 2020012801
+% EventTAG: s2020CARIBB01TADA
 %
 % Loc : LAT = 19.421 LON = -78.763 DEP = 15.0
 % Size : LEN = 460.0 km WID = 25.0 km Mw = 7.99 Mo = 1.237e+21 Nm
